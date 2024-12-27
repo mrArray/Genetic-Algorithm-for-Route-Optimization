@@ -18,8 +18,8 @@ This repository contains an implementation of a genetic algorithm for solving ro
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/mrArray/Genetic-Algorithm-for-Route-Optimization
+cd Genetic-Algorithm-for-Route-Optimization
 ```
 
 ### 2. Install Node.js
